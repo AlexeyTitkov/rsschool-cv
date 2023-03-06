@@ -42,3 +42,28 @@ So now my motto is:
 - KOMPAS-3D, Mathcad, Adobe Photoshop
 
 ---
+### Code example:
+
+**Credit Card Mask KATA from CODEWARS:** Your task is to write a function maskify, which changes all but the last four characters into '#'.*
+
+```javascript
+const maskify = (cc) => (cc.length > 4) ? `${'#'.repeat(cc.length-4)}${cc.slice(-4)}` : cc
+```
+---
+
+### Education and Courses:
+
+* **Moscow Power Engineering Institute**
+    + Faculty of "Electromechanical Systems"
+* **STEP IT Academy**
+    + Basic knowledge of HTML, CSS and JavaScript
+* **The Rolling Scopes School**
+    + Course «JavaScript/Front-end. Stage 1» (_in progress_)
+
+---
+
+### Languages:
+
+- English \- Pre-intermediate
+- Russian \- Native
+- Belarusian \- Intermediate
