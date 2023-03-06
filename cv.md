@@ -1,3 +1,4 @@
+![photo](https://avatars.githubusercontent.com/u/95431867?v=4)
 # Alexey Titkov
 
 ### Student Frontend Developer
