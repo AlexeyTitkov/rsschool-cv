@@ -14,3 +14,31 @@
 **Discord:** [AlexeyTitkov (@AlexeyTitkov)](https://www.linkedin.com/in/alexey-titkov-952528219)     <br>                                                             
 
 ---
+
+### Briefly About Myself:
+
+After graduating from the Moscow Power Engineering Institute, I worked as an energy engineer in food production factory for about 2.5 years and for another 6 years after that as a leading energy engineer in public catering and retail.<br>
+
+In recent years, I have been thinking about changing my profession. While working, I started studying frontend development in courses.
+I got basic knowledge of HTML layout, CSS, JavaScript basics, and started learning ReactJS. I was impressed by the thoughtfulness of the language, as well as by those who create and develop it all - the сommunity of programmers. I realized that I like it and I want to be a part of it and work as a a Software Developer.
+However, the work took too much time, which was not enough for a full-fledged study of frontend development, I had to put my studies on pause.<br>
+
+And in February 2023, I decided not to renew my employment contract as an energy engineer, quit and began studying frontend development at The Rolling Scopes School course.
+So now I'm starting to fully devote myself to studying and believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Software Developer on interesting and useful projects.
+<br>
+
+So now my motto is:
+> _Not a step back and not a day without a line of code!_<br>
+
+---
+
+### Skills:
+
+- HTML5, CSS3
+- JavaScript
+- Git, GitHub
+- Figma
+- VS Code, IntelliJ IDEA
+- KOMPAS-3D, Mathcad, Adobe Photoshop
+
+---
